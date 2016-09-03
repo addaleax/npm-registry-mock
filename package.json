@@ -1,5 +1,5 @@
 {
-  "name": "npm-registry-mock",
+  "name": "modern-npm-registry-mock",
   "version": "1.0.1",
   "description": "mock the npm registry",
   "main": "index.js",
@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/npm/npm-registry-mock.git"
+    "url": "git://github.com/addaleax/npm-registry-mock.git"
   },
   "author": "Robert Kowalski <rok@kowalski.gd>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/npm/npm-registry-mock/issues"
+    "url": "https://github.com/addaleax/npm-registry-mock/issues"
   },
   "keywords": [
     "npm",
