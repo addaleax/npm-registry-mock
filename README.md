@@ -1,7 +1,11 @@
-[![Build Status](https://travis-ci.org/npm/npm-registry-mock.png?branch=master)](https://travis-ci.org/npm/npm-registry-mock)
-[![Dependency Status](https://gemnasium.com/npm/npm-registry-mock.png)](https://gemnasium.com/npm/npm-registry-mock)
+[![Build Status](https://travis-ci.org/addaleax/npm-registry-mock.svg?style=flat&branch=master)](https://travis-ci.org/addaleax/npm-registry-mock?branch=master)
+[![Coverage Status](https://coveralls.io/repos/addaleax/npm-registry-mock/badge.svg?branch=master)](https://coveralls.io/r/addaleax/npm-registry-mock?branch=master)
+[![Dependency Status](https://david-dm.org/addaleax/npm-registry-mock.svg?style=flat)](https://david-dm.org/addaleax/npm-registry-mock)
 
 #npm-registry-mock
+
+**Note**: This is a fork of [the official module by npm](https://github.com/npm/npm-registry-mock).
+It is a bit more modern (`npm@3`-based) and contains more modules by default.
 
 ##Mocked Packages
 
@@ -30,6 +34,8 @@ Currently mocked packages are:
 `async` at 0.2.9, 0.2.10
 
 `checker` at 0.5.1, 0.5.2
+
+… and quite a bit more in this fork, including `request@2.74.0` with all its dependencies.
 
 ##Usage
 
